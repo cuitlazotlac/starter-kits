@@ -6,9 +6,7 @@ An Polygon Starter Kit Tutorial containing React, @web3-react, Infura.
 
 Install fundamental environments, including node, web3, react, truffle, etc
 
-\0. Environment Setup
-
-# Install Ganache、Truffle
+# Install Ganache & Truffle
 
 ![img](https://avatars.githubusercontent.com/u/88427645?s=200&v=4)
 
@@ -18,7 +16,7 @@ An Polygon Starter Kit Tutorial containing React, @web3-react, Infura.
 
 [Developer Docs](https://docs.matic.network/docs/develop/getting-started) - [Tutorial](https://polygon-tutorial.soildstake.net)
 
-#### Install ganache
+### Install Ganache
 
 ```javascripts
 Download Package from https://www.trufflesuite.com/ganache
@@ -30,19 +28,17 @@ Ganache Screenshot
 
 ------
 
-> granache is needed for dapp development on local blockchain, its capable of viewing txns informations, create workspace folder, deploy smart contracts and tracking its interface.
+> Ganache is needed for DApp development on local blockchain, its capable of viewing txns informations, create workspace folder, deploy smart contracts and tracking its interface.
 
-#### Install truffle
+### Install Truffle
 
 ```javascripts
 npm install -g truffle 
 ```
 
-> truflle is used for develop, test, and deploy smart contracts.
+> Truffle is used for develop, test, and deploy smart contracts.
 >
 > More tutorials about truffle: https://learnblockchain.cn/docs/truffle/
-
-\0. Environment Setup
 
 # Create your DAPP using Starter Kits Template
 
@@ -124,8 +120,6 @@ Then a new folder named `{YOUR_PROJECT_NAME}` will be created under current fold
 └── truffle-config.js
 ```
 
-\0. Environment Setup
-
 # Truffle Environment Configuration
 
 ##### truffle-config.js  
@@ -172,10 +166,6 @@ More about `PUBLIC_RPC` please reference on：[Development Docs](https://docs.ma
 # 1.Project Structure
 
 Polygon-Starter-Kit Project Template Introduction, and how to utilize different modules in it.
-
-1.Project Structure
-
-# Project Structure
 
 #### Polygon-Starter-Kit Project Structure is as below
 
